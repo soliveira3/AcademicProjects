@@ -2,7 +2,6 @@
 
 A curated collection of my most notable academic projects, spanning **Artificial Intelligence**, **Bioinformatics**, and **Social Network Analysis**.
 
----
 
 ## Overview
 
