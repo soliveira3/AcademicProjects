@@ -1,11 +1,11 @@
 # AcademicProjects
 
 A curated collection of my most notable academic projects, spanning **Artificial Intelligence**, **Bioinformatics**, and **Social Network Analysis**.
+This repository houses a selection of my academic work completed during my studies, implemented primarily in **Python**, **Jupyter Notebooks**, and **C++**.  
 
+---
 
 ## Overview
-
-This repository houses a selection of my academic work completed during my studies, implemented primarily in **Python**, **Jupyter Notebooks**, and **C++**.  
 
 ### 1. Artificial Inteligence
 - Classification and clustering
