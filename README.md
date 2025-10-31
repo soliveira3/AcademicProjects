@@ -14,13 +14,11 @@ This repository houses a selection of my academic work completed during my studi
 - Optimization algorithms
 
 ### 2. Bioinformatics
-Projects addressing computational biology problems, including:
 - Sequence alignment and genomics data processing
 - Protein structure and function prediction
 - Algorithmic bioinformatics methods
 
 ### 3. Social Network Analysis
-Projects applying **graph theory** and **network analysis** to real-world social data:
 - Network measures and centrality
 - Community detection
 - Influence and diffusion modeling
